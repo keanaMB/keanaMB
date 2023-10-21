@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keanaMB
-- 👀 I’m interested in expanding my knowledge into the IT relm
-- 🌱 I’m currently learning system administration
+- 👀 I’m interested in expanding my knowledge in the Cyber Security relm
+- 🌱 I’m currently learning some basic knowledge in Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me keana.m.brown@outlook.com
 
